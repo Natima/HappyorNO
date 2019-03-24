@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\926e0c3cd5546a2583dbc63859dbfdc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94980a9a08796abdf9e799b0ccb3443f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cc71d2946172bd5056552c13aaa3658c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\478b4187afc29012fc1b40c603966004\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63222b83ab8f9e5dafb12d4a72ab9d5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17b6fb3068ce105cb7bef09c73f63591\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0b3cc69c4243b8d3fdbeca1f9222f2f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\363f5c1d236ccaf9b7746a5e6256aefc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cd624391111e419b3ad4a55a019bb8d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\edb1f82cefc74392c4d62cc851fde8f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\20fcf3e68a94f3bd761f4456dcb7cf2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f89cd367cfa0e2997c6a2f3cfddbd60d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1a0b492f37fb1e59ac4ae9dd653d340c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e14ed1df15cb8b9ffb53b18d8f93dd3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3fda6b7b68d0f92a416469bf273b0911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\67f40424699112456153904ea1cff925\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4e725783a21691d2ad73e6c6b69cce5d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\255d69a55f4ebeba162847c1c40e28a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4bbd0d448373ad06ecb19c1f3171aea0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\42847601c3f7ecfb06f2565ccec33206\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\71e79a56d0c757f9fa717ff3c8f76cfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d0b7a817cfc979fc5cab89c78ee7056\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ddf281e7acd8f61375814737302cab7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\485b6cfbaf1ec8be192a2c1df7126082\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e9066e9d695d7fc05757390e74b649f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4abcba07bc589ba67255dd98102cbaf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3734164a1ace930644dbaccbb2b789b7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\926e0c3cd5546a2583dbc63859dbfdc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\926e0c3cd5546a2583dbc63859dbfdc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94980a9a08796abdf9e799b0ccb3443f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94980a9a08796abdf9e799b0ccb3443f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cc71d2946172bd5056552c13aaa3658c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\cc71d2946172bd5056552c13aaa3658c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\478b4187afc29012fc1b40c603966004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\478b4187afc29012fc1b40c603966004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63222b83ab8f9e5dafb12d4a72ab9d5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63222b83ab8f9e5dafb12d4a72ab9d5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17b6fb3068ce105cb7bef09c73f63591\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17b6fb3068ce105cb7bef09c73f63591\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0b3cc69c4243b8d3fdbeca1f9222f2f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0b3cc69c4243b8d3fdbeca1f9222f2f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\363f5c1d236ccaf9b7746a5e6256aefc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\363f5c1d236ccaf9b7746a5e6256aefc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cd624391111e419b3ad4a55a019bb8d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cd624391111e419b3ad4a55a019bb8d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\edb1f82cefc74392c4d62cc851fde8f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\edb1f82cefc74392c4d62cc851fde8f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\20fcf3e68a94f3bd761f4456dcb7cf2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\20fcf3e68a94f3bd761f4456dcb7cf2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f89cd367cfa0e2997c6a2f3cfddbd60d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f89cd367cfa0e2997c6a2f3cfddbd60d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1a0b492f37fb1e59ac4ae9dd653d340c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1a0b492f37fb1e59ac4ae9dd653d340c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e14ed1df15cb8b9ffb53b18d8f93dd3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e14ed1df15cb8b9ffb53b18d8f93dd3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3fda6b7b68d0f92a416469bf273b0911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3fda6b7b68d0f92a416469bf273b0911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\67f40424699112456153904ea1cff925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\67f40424699112456153904ea1cff925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4e725783a21691d2ad73e6c6b69cce5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4e725783a21691d2ad73e6c6b69cce5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\255d69a55f4ebeba162847c1c40e28a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\255d69a55f4ebeba162847c1c40e28a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4bbd0d448373ad06ecb19c1f3171aea0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4bbd0d448373ad06ecb19c1f3171aea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\42847601c3f7ecfb06f2565ccec33206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\42847601c3f7ecfb06f2565ccec33206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\71e79a56d0c757f9fa717ff3c8f76cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\71e79a56d0c757f9fa717ff3c8f76cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d0b7a817cfc979fc5cab89c78ee7056\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0d0b7a817cfc979fc5cab89c78ee7056\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ddf281e7acd8f61375814737302cab7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ddf281e7acd8f61375814737302cab7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\485b6cfbaf1ec8be192a2c1df7126082\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\485b6cfbaf1ec8be192a2c1df7126082\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e9066e9d695d7fc05757390e74b649f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e9066e9d695d7fc05757390e74b649f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4abcba07bc589ba67255dd98102cbaf5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4abcba07bc589ba67255dd98102cbaf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3734164a1ace930644dbaccbb2b789b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3734164a1ace930644dbaccbb2b789b7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+	tools:overrideLibrary
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:15-65
+	android:targetSdkVersion
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:5:5-67
+		INJECTED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94980a9a08796abdf9e799b0ccb3443f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\94980a9a08796abdf9e799b0ccb3443f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\67f40424699112456153904ea1cff925\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\67f40424699112456153904ea1cff925\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4e725783a21691d2ad73e6c6b69cce5d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4e725783a21691d2ad73e6c6b69cce5d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\smult\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\67f40424699112456153904ea1cff925\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.buttonpress.Splashscreen
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:label
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:12:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.buttonpress.MainActivity
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:20:13-23:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from C:\Users\smult\AndroidStudioProjects\ButtonPress\app\src\main\AndroidManifest.xml:22:27-73
